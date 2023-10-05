@@ -1,0 +1,8 @@
+
+
+SIZE_DEFAULT = (10,10)
+SHIP_1 = 1
+SHIP_1_1 = 1
+SHIP_2 = 2
+SHIP_3 = 3
+SHIP_4 = 4
