@@ -1,5 +1,4 @@
-import src.player as pl, src.ship as ship, src.table as tl
+import src.functions as ft
 
-t = tl.Table()
-table = t.create_table()
-print(table)
+#ft.play_game() # if u want play a normal game
+ft.create_demo() # if u want play demo

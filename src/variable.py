@@ -2,7 +2,12 @@
 
 SIZE_DEFAULT = (10,10)
 SHIP_1 = 1
-SHIP_1_1 = 1
+SHIP_1_2 = 1
+SHIP_1_3 = 1
+SHIP_1_4 = 1
 SHIP_2 = 2
+SHIP_2_2 = 2
+SHIP_2_3 = 2
 SHIP_3 = 3
+SHIP3_2 = 3
 SHIP_4 = 4
