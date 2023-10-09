@@ -1,4 +1,3 @@
-import numpy as np
 class Player():
     """
     Represents a player in a game.

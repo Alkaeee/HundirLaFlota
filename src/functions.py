@@ -1,6 +1,5 @@
 import src.player as pl, src.ship as sp, src.table as tl, src.variable as v, src.functions as ft
 import numpy as np
-import random
 
 def create_ships_player(list_ships: list = None):
     """
